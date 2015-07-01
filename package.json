@@ -1,0 +1,19 @@
+{
+  "name": "karma-cljs-test",
+  "version": "0.1.0",
+  "description": "Adapter for the cljs.test testing framework.",
+  "keywords": [
+    "karma-plugin",
+    "karma-adapter",
+    "clojurescript",
+    "cljs.test",
+    "cljs"
+  ],
+  "author": "jan.brecka@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:honzabrecka/karma-cljs-test.git"
+  },
+  "main": "index.js"
+}
